@@ -1,0 +1,21 @@
+{
+  "cognito": {
+    "poolId": "us-east-1:c9cb8d19-926e-45e7-8ae1-b110cb27fea1"
+  },
+  "lex": {
+    "botName": "ConferenceBot",
+    "initialText": "You can ask me for help ordering flowers. Just type \"order flowers\" or click on the mic and say it.",
+    "initialSpeechInstruction": "Say 'Order Flowers' to get started."
+  },
+  "ui": {
+    "parentOrigin": "",
+    "pageTitle": "Order Flowers Bot",
+    "toolbarTitle": "Order Flowers"
+  },
+  "polly": {
+    "voiceId": "Salli"
+  },
+  "recorder": {
+    "preset": "speech_recognition"
+  }
+}
